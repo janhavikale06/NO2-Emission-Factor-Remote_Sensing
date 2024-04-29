@@ -73,10 +73,6 @@ NO2 Emission Factor Estimation from Global Power Plant.
    
      a) Our study aimed to estimate NO2 emission factors for global power plants using data from 2013 to 2017, employing regression models and KMeans clustering.
 
-
-   <img width="621" alt="rs1" src="https://github.com/janhavikale06/NO2-Emission-Factor-Remote_Sensing/assets/81229872/ca2aae7a-2d3b-44e3-98d9-e40c54e243db">
-   
-
 2. India vs. UK Disparities:
    
       a) Significant differences were found between India and the UK.
@@ -85,7 +81,10 @@ NO2 Emission Factor Estimation from Global Power Plant.
 
    
    <img width="731" alt="rs2" src="https://github.com/janhavikale06/NO2-Emission-Factor-Remote_Sensing/assets/81229872/d5bfb7da-7109-4b63-9920-21a4f0e6554c">
+   
 
+   <img width="621" alt="rs1" src="https://github.com/janhavikale06/NO2-Emission-Factor-Remote_Sensing/assets/81229872/ca2aae7a-2d3b-44e3-98d9-e40c54e243db">
+   
 
 3. Methodological Impact:
    
