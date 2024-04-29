@@ -1,4 +1,4 @@
-# Problem Statement: 
+## Problem Statement: 
 
 NO2 Emission Factor Estimation from Global Power Plant.
 
@@ -9,30 +9,39 @@ NO2 Emission Factor Estimation from Global Power Plant.
 
 **Methodology:**
 1.  Data Acquisition and Preprocessing:
+   
   a) Data Collection: Obtain a global power plant database containing information such as location, capacity, and estimated generation.
+  
   b) Data Cleaning: Handle missing values using mean imputation for relevant columns like capacity and estimated generation.
+  
   c) Exploratory Data Analysis (EDA): Visualize the distribution of power plants across countries using bar plots and geographical maps to understand geographical patterns.
 
 2. Emission Factor Estimation:
+   
   a) Overall Estimated Generation Calculation: Sum the estimated generation for each power plant from 2013 to 2017 to calculate the overall estimated generation.
+  
   b) Regression Modelling:
+  
     i. Linear Regression
+    
    ii. Random Forest Regression
+   
   iii. Gradient Boosting Regression
+  
    iv. Decision Tree Regression
    
-3. Emission Factor Calculation:
+5. Emission Factor Calculation:
   a) Emission Factor Derivation: Calculate the emission factor by dividing the total overall estimated generation by the total capacity of power plants.
   b) Cluster Analysis:
     i. Feature Selection
    ii. KMeans Clustering
   iii. Emission Factor Calculation per Cluster
 
-4. Evaluation and Comparison:
+6. Evaluation and Comparison:
   a) Model Evaluation: Assess the performance of regression models using metrics like mean squared error, mean absolute error, and R-squared score.
   b) Emission Factor Comparison: Compare emission factor values obtained from different regression algorithms and clustering, plotting them on a horizontal bar plot for better visualization.
 
-5. Filtering Power Plants by Country:
+7. Filtering Power Plants by Country:
   For India and the United Kingdom (UK):
   a) Filter power plants located in India and the UK from the dataset.
   b) Visualizing Power Plants on Maps:
