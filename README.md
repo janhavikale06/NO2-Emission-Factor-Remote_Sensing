@@ -73,11 +73,19 @@ NO2 Emission Factor Estimation from Global Power Plant.
    
      a) Our study aimed to estimate NO2 emission factors for global power plants using data from 2013 to 2017, employing regression models and KMeans clustering.
 
+
+   <img width="621" alt="rs1" src="https://github.com/janhavikale06/NO2-Emission-Factor-Remote_Sensing/assets/81229872/ca2aae7a-2d3b-44e3-98d9-e40c54e243db">
+   
+
 2. India vs. UK Disparities:
    
       a) Significant differences were found between India and the UK.
    
       b) Indian power plants showed lower emission factors (8.88 GWh/MW) compared to the UK (20.78 GWh/MW), indicating potential variations in emission control measures and operational practices.
+
+   
+   <img width="731" alt="rs2" src="https://github.com/janhavikale06/NO2-Emission-Factor-Remote_Sensing/assets/81229872/d5bfb7da-7109-4b63-9920-21a4f0e6554c">
+
 
 3. Methodological Impact:
    
@@ -87,11 +95,17 @@ NO2 Emission Factor Estimation from Global Power Plant.
   
      c) Decision tree regression fell within the high estimate range (1727.26 GWh/MW), emphasizing method sensitivity.
 
+   
+   <img width="671" alt="rs3" src="https://github.com/janhavikale06/NO2-Emission-Factor-Remote_Sensing/assets/81229872/cf2f5e74-fe67-4680-97e6-154412ccc500">
+
 4. KMeans Clustering Impact:
    
       a) KMeans clustering identified two clusters, with slight variations in emission factors (Cluster 1: 10.51 GWh/MW, Cluster 2: 9.00 GWh/MW).
    
       b) An anomaly was noted where a duplicate cluster displayed a significantly higher emission factor (21.22 GWh/MW), highlighting the need for rigorous validation.
+
+   
+   <img width="428" alt="rs4" src="https://github.com/janhavikale06/NO2-Emission-Factor-Remote_Sensing/assets/81229872/4648568f-572e-42da-8693-f9a35df7fbc9">
 
 5. Implications:
    
