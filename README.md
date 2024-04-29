@@ -37,7 +37,9 @@ NO2 Emission Factor Estimation from Global Power Plant.
   b) Cluster Analysis:
   
    i. Feature Selection
+  
    ii. KMeans Clustering
+  
   iii. Emission Factor Calculation per Cluster
 
 4. Evaluation and Comparison:
@@ -100,6 +102,7 @@ NO2 Emission Factor Estimation from Global Power Plant.
 3. Addressing regional disparities in emissions underscores the need for tailored solutions, including stringent standards, cleaner energy promotion, and international collaboration to safeguard environmental integrity and public health.
 
 **References:**
+
 [1] Concept of small satellite UV/visible imaging spectrometer optimized for tropospheric NO2 measurements in air quality monitoring: A Study by Tamaki Fujinawa,  Katsuyuki Noguchi, Akihiko Kuze, Andreas Richter, John P. Burrows, Andreas C. Meier, Tomohiro O. Sato, Takeshi Kuroda, Naohiro Yoshida, and Yasko Kasai, 15 May 2019. 
 
 [2] Tracking NO2 Emission from Thermal Power Plants in North India Using TROPOMI Data: A Study by Gautam Kumar Saw, Sagnik Dey, Hemant Kaushal, and Kanhaiya Lal, 4 May 2021. 
