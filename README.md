@@ -1,6 +1,6 @@
 ## Problem Statement: 
 
-NO2 Emission Factor Estimation from Global Power Plant.
+NO2 Emission Factor Estimation from Global Power Plant using Remote Sensing.
 
 **Abstract:**
 1. This study utilizes advanced machine learning techniques to estimate nitrogen dioxide (NO2) emission factors from global power plants, aiding efforts to combat air pollution.
